@@ -14,7 +14,7 @@
 #define PHP_SNAILMVC_VERSION     "0.0.1"
 #define PHP_SNAILMVC_EXTNAME     "snailmvc"
 #define PHP_SNAILMVC_AUTHOR      ""
-#define PHP_SNAILMVC_ZEPVERSION  "0.9.4a-dev-cbfe80715d"
+#define PHP_SNAILMVC_ZEPVERSION  "0.9.4a-dev-7e304ba18c"
 #define PHP_SNAILMVC_DESCRIPTION ""
 
 
